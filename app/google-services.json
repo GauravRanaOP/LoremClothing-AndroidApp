@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "881598588006",
+    "project_id": "lorem-ecommerce-71ad6",
+    "storage_bucket": "lorem-ecommerce-71ad6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881598588006:android:f86843ba969d65a34bf9a7",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAJoqAoZX6buvBHLvZgYKseKnVcSMC6Po"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
